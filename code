@@ -1,0 +1,51 @@
+[{
+		"name": "Overwatch Sigma Guide - The Ultimate Sigma Tips and Tricks",
+		"description": "The Hero-31 in Overwatch is a barrier-tank called Sigma. Jeff Kaplan, the lead game designer described him as a 3-star hero, meaning he’s not a beginner hero and everyone attempting to play Sigma should be prepared to a high learning curve.
+                     Today, I’m going to show you exactly how to play Sigma like a Top 300 Overwatch booster.
+                     Our clients have seen increases in their Overwatch Skill Rating shortly after reading and practicing a little with their newly learned tips. I promise, it won’t be hard to digest the content. Let’s dive in.",
+		"img": "https://www.boostingfactory.com/application/files/thumbnails/news_gallery_single/1415/7296/4735/sigma-guide-header.jpg"
+	},
+	{
+		"name": "Experimental Barrier",
+		"description": "The Experimental barrier is Sigma’s key ability in my opinion. By activating it, you spawn a 1500 HP barrier that keeps moving forward until it hits a wall or you release the button. You can also cancel the ability, recall it and use it again, momentarily.
+                    When your Experimental Barrier is active, you cannot fire Hyperspheres, but you can recall the barrier, fire, and spawn the barrier again. Similar to Reinhardt’s barrier, it won’t regenerate it’s HP while it’s active, in order to regenerate your barrier, you need to cancel it. This ability has no cooldown either.",
+		"img": "https://www.boostingfactory.com/application/files/9415/6815/5951/sigma-barrier.jpg"
+	}, {
+		"name": "Accretion Tips",
+		"description": "The longer the range from which you’ve hit enemies with Accretion, the longer they stay knocked down. The minimum knockdown time is 0.5 seconds and it can go up to 3 seconds.
+                     The rock won’t be stopped by D.Va’s Defence Matrix. Yay.
+                     Since the rock will knock down people, it means it also interrupts abilities such as McCree’s ultimate, Reinhardt’s charge or Moira’s Coalescence.
+                      An amazing combo you can do is knock someone down, and then burst him with Hyperspheres for a total of 200 damage, oof.
+                      Another great use of this ability is to interrupt Roadhog’s ultimate",
+		"img": "https://www.boostingfactory.com/application/files/8915/6815/5947/sigma-gameplay.jpg"
+	}, {
+		"name": "Gravitic Flux Tips",
+		"description": "After you slam dunk enemies into the ground, you cannot fly anymore, make sure you positioned yourself well and not above some kind of hole where you can die by falling into it.
+                    When the enemies are in the air before you slam dunk them, you can shoot your Hyperspheres at squishy targets to aim for the kill even before the slam dunk
+                    Don’t be greedy and never use your ult because you think you can catch every single member in your ultimate. Try to catch some squishies and that will be enough most of the time.
+                    You can get stunned when using the ultimate as well. Do not use it recklessly by trying to catch everyone.
+                    There are situations where you need to use it defensively, even on one person such as Genji ramming through your backline. Don’t call it a waste if not using it is gonna cost you a team wipe.",
+		"img": "https://www.boostingfactory.com/application/files/1315/6815/5950/sigma-ultimate.jpg"
+	}, {
+		"name": "Overwatch 2’s Season 2 brings more balance adjustments and a Greek god mode",
+		"description": "Free to play hero shooter Overwatch 2 welcomes Season 2 early next week, and with that comes some more hero balance changes and a new theme. This season, the game’s taking its inspiration from Greek mythology with a new time-limited mode, Battle For Olympus, giving the heroes some godlike powers early next year. You can take a look at some of what’s lined up for Overwatch 2 Season 2 in the trailer below.",
+		"img": "https://assets2.rockpapershotgun.com/Ramattra-Overwatch-2-transformed-cropped.jpg"
+	},{
+		"name": "Overwatch 2 players aren't staying silent about Moira's legendary mime skin",
+		"description": "Like many free-to-play live service games these days, Overwatch 2 loves its skins. Occasionally though, Blizzard stumble with their cosmetic offerings, rather like they’ve tripped over an invisible dog. Players have been taking to Twitter and Reddit to voice their irritation with support hero Moira’s rather uninspired new legendary skin, based on the classic black and white look of mime artists everywhere. Just like mime artists themselves, it’s not very popular.",
+		"img": "https://assets2.rockpapershotgun.com/Moira-Overwatch-2-mime-legendary-skin.jpg"
+	},
+	{
+		"name": "Overwatch 2’s mid-season update brings back Mei and nerfs Zarya",
+		"description": "The mid-cycle patch for hero shooter Overwatch 2 has arrived to bring balance adjustments for multiple characters, and free Mei from her downtime at last. In particular, Zarya’s particle barrier duration has been reduced, so you should have an easier team taking her on in future. Blizzard announced there’d be a delay to the balance adjustment update earlier this week, which had been scheduled for November 15th.",
+		"img": "https://assets2.rockpapershotgun.com/Overwatch-2-Zarya.jpg"
+	}, {
+		"name": "Overwatch 2’s mid-season patch delayed due to critical issue",
+		"description": "Blizzard have postponed the release of a patch for Overwatch 2 so they can fix an undisclosed critical issue with the game. The patch had been scheduled for November 15th, and is meant to include hero balance adjustments for Zarya, Genji, Sombra, Kiriko, and D.va. The mid-season update should also see Mei return to the hero shooter after her two-week stint on the bench, Blizzard’s statement said, following issues with her icewall ability last month. You can now expect the patch to arrive tomorrow, November 17th, at 7pm GMT / 9pm CET / 11am PST. Not too long to wait, then.",
+		"img": "https://assets2.rockpapershotgun.com/Overwatch-2-Kiriko-reveal.jpg"
+	}, {
+		"name": "Overwatch 2 will add a support hero after tank Ramattra",
+		"description": "Overwatch 2's commercial lead Jon Spector has revealed the free-to-play hero shooter's next new character will bolster the ranks of its support heroes. Spector dropped the hint about Overwatch 2’s next hero in a Q&A session with Korean site Inven. Spector said that the next hero would be a more solid support. We can expect them to arrive in Overwatch 2 when Season 3 of the game begins in early February 2023.",
+		"img": "https://assets2.rockpapershotgun.com/overwatch-mercy-dr-ziegler.jpg"
+	}
+]
